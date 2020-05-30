@@ -31,11 +31,11 @@
          "required": false,
          "value": "sqldbtype://username:pw@hostname:port/db_name"
       },      
-      "OWNER_ID": {919584113}
+      "OWNER_ID": "919584113"
          "description": "Your user ID as an integer.",
          "value": "x_y_x"
       },
-      "OWNER_USERNAME": {@ankith_m}
+      "OWNER_USERNAME": "@ankith_m"
          "description": "Your username",
          "value": "x_y_z"
       },
