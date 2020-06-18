@@ -38,15 +38,15 @@ HOI    {}, MY NAME IS {} !
 
 I AM A GROUP MANAGER BOT MAINTAINED BY 
 
-[THIS LEGEND](tg://user?id={}).
+[CREEATED BY THIS LEGEND★★★](https://telegram.dog/NGYNY).
 
 HIT HELP FOR COMMANDS  /help
 
 I AM COMPLETELY OPEN SOURCE
 
-MY SOURCE CODE IS AVAILABLE TO YOU
+Join Our Channel : @NGY_BOTS
 
-[HERE](https://github.com/DONOFTELEGRAM/phantom)
+
 
 """
 
